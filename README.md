@@ -1,4 +1,4 @@
-# EE-practice
+# HFUT EE project
 
 > - Welcome to my homepage! :smile:
 > - Give a star for this repo if it's helpful :wink:
